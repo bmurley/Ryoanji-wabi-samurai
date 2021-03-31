@@ -1,5 +1,6 @@
 # Ryoanji-wabi-samurai
 3D project for japanese art history about the Ryoanji dry garden.
 
-The project loads into index.html via node.js. Assets are displayed in an html canvas.
+Database for this project has been created with Heurist network.
+Link: https://heuristplus.sydney.edu.au/heurist/?db=bsmur_murley211&welcome=1
 
